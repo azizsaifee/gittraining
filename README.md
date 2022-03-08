@@ -1,2 +1,2 @@
 # gittraining
-this is git training 2022
+## this is git training 2022
